@@ -1,0 +1,11 @@
+Detalle Calificacion
+Requisitos Funcionales (5 Puntos): 3 Puntos. Si aplicaron estilos CSS como indique. No implementaron el esquma de arreglo de objetos estudiante, esto era un requisito.
+Errores Manejados o no tiene en consola (2 Puntos): 1 Punto. No tiene errores de Consola. Pero no ha validado entre mayusculas y minusculas.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 1 Punto. Faltaron funciones porque no usuaron el esquema de datos de Arreglo de objetos.
+Comentarios (1 Punto): 0 Puntos. No hay comentarios
+Subio bien a github (1 Punto bonus): 1 Punto.
+Total: 6 Puntos.
+
+Comentarios Profesor:
+Lamentablemente, aunque el codigo funciona no hicieron lo que se pidio, basandose en arreglos de objetos.
+Buen gato y estilo
